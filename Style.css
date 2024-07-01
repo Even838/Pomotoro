@@ -1,0 +1,30 @@
+body {
+    font-size: 15pt;
+    background-color:#AED7ED;
+    
+    
+    
+}
+
+#cont {
+    text-align: center
+    ;
+    background-color: #C8CCFF;
+    
+    box-shadow: 5px 5px 10px;
+    
+    border-radius: 30px; 
+}
+
+
+h1{
+  color:#FFFFFF;
+
+}
+
+h2{
+  color:#FFFFFF;
+  
+  
+}
+
